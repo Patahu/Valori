@@ -1,4 +1,4 @@
-![Screenshot_20240418_090738_com example valorix](https://github.com/Patahu/Valori/assets/55921419/a7ad3b2c-fdb9-4690-9f78-ea559fd3a48c)**Login**
+**Login**
 
 
 
