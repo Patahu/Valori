@@ -195,3 +195,9 @@ Violencia
 
 
 <img src="https://github.com/Patahu/Valori/assets/55921419/87be8b73-2121-47ab-ad72-f54807b614a8" width="50%" height="50%">
+
+
+**USUARIO TIPO PSCICOLOGO**
+**home**
+
+**USUARIO TIPO MAESTRO**
