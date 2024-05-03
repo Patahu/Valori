@@ -1,9 +1,17 @@
+
+Desarrollé una app móvil para Android para la enseñanza de valores a niños de primaria para la prevención de la violencia mediante lecciones con videos, preguntas y reporte de entudiantes, la aplicacion esta dividida en 3 interfaces diferentes para distintos tipos de usuario, el primero el usuario tipo alumno, el segundo el usuario tipo psicologo y por ultimo el usuario tipo maestro.
+
+
 **Login**
 
 
 
 <img src="https://github.com/Patahu/Valori/assets/55921419/a147c04a-c43f-43d1-a8a1-cd14f1f906fb" width="50%" height="50%">
 
+
+
+
+** USUARIO TIPO ALUMNO **
 
 
 **Funcionalidades para niños**
