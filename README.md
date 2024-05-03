@@ -14,14 +14,14 @@
 
 
 
-**Login**
+**Home**
 
 <img src="https://github.com/Patahu/Valori/assets/55921419/8c2504f8-4745-4306-8aa6-08e4dcbac447" width="50%" height="50%">
 
 
 
 
-**Home**
+
 
 
 
