@@ -16,32 +16,27 @@
 
 **Home**
 
-<img src="https://github.com/Patahu/Valori/assets/55921419/8c2504f8-4745-4306-8aa6-08e4dcbac447" width="50%" height="50%">
+**1.** <img src="https://github.com/Patahu/Valori/assets/55921419/8c2504f8-4745-4306-8aa6-08e4dcbac447" width="50%" height="50%">
 
 
 
+**2.** <img src="https://github.com/Patahu/Valori/assets/55921419/7c761a0d-648e-4ad8-a345-c2c7bdd02dd1" width="50%" height="50%">  
 
 
 
-
-
-**1.** <img src="https://github.com/Patahu/Valori/assets/55921419/7c761a0d-648e-4ad8-a345-c2c7bdd02dd1" width="50%" height="50%">  
-
-
-
-**2.** <img src="https://github.com/Patahu/Valori/assets/55921419/96d89964-dad6-4af9-8b3b-2f1b0e907ded" width="50%" height="50%">
+**3.** <img src="https://github.com/Patahu/Valori/assets/55921419/96d89964-dad6-4af9-8b3b-2f1b0e907ded" width="50%" height="50%">
 
 
 
-**3.** <img src="https://github.com/Patahu/Valori/assets/55921419/9345fc64-d4b4-40f7-ab71-56284855ea8f" width="50%" height="50%">  
+**4.** <img src="https://github.com/Patahu/Valori/assets/55921419/9345fc64-d4b4-40f7-ab71-56284855ea8f" width="50%" height="50%">  
 
 
 
-**4.** <img src="https://github.com/Patahu/Valori/assets/55921419/ca1db1c3-2a91-4698-b846-4a23cbde35be" width="50%" height="50%">
+**5.** <img src="https://github.com/Patahu/Valori/assets/55921419/ca1db1c3-2a91-4698-b846-4a23cbde35be" width="50%" height="50%">
 
 
 
-**5.** <img src="https://github.com/Patahu/Valori/assets/55921419/06df7268-06f5-40c0-b515-681a7f571d86" width="50%" height="50%">
+**6.** <img src="https://github.com/Patahu/Valori/assets/55921419/06df7268-06f5-40c0-b515-681a7f571d86" width="50%" height="50%">
 
 
 
