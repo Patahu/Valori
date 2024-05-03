@@ -45,7 +45,7 @@ Impacto significativo y duradero
 
 
 
-** USUARIO TIPO ALUMNO **
+**USUARIO TIPO ALUMNO**
 
 
 **Funcionalidades para niños**
