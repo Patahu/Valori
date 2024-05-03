@@ -34,15 +34,15 @@
 
 
 
-1. <img src="https://github.com/Patahu/Valori/assets/55921419/56998be6-9c1b-4f23-a2a5-bced859451cb" width="50%" height="50%">  2. <img src="https://github.com/Patahu/Valori/assets/55921419/9ad6a114-9c11-497e-92ee-6c82fbcb9e67" width="50%" height="50%">
+**1.** <img src="https://github.com/Patahu/Valori/assets/55921419/56998be6-9c1b-4f23-a2a5-bced859451cb" width="50%" height="50%">  **2.** <img src="https://github.com/Patahu/Valori/assets/55921419/9ad6a114-9c11-497e-92ee-6c82fbcb9e67" width="50%" height="50%">
 
 
 
-3. <img src="https://github.com/Patahu/Valori/assets/55921419/c4d7a52f-0b6e-421b-b7a6-f86fc95a1d13" width="50%" height="50%">  4. <img src="https://github.com/Patahu/Valori/assets/55921419/ea7d05a8-2906-4ff5-901b-d3fed2a28dfd" width="50%" height="50%">
+**3.** <img src="https://github.com/Patahu/Valori/assets/55921419/c4d7a52f-0b6e-421b-b7a6-f86fc95a1d13" width="50%" height="50%">  **4.** <img src="https://github.com/Patahu/Valori/assets/55921419/ea7d05a8-2906-4ff5-901b-d3fed2a28dfd" width="50%" height="50%">
 
 
 
-5. <img src="https://github.com/Patahu/Valori/assets/55921419/b03b5501-7724-4211-b0f5-33efa9d9271f" width="50%" height="50%">
+**5.** <img src="https://github.com/Patahu/Valori/assets/55921419/b03b5501-7724-4211-b0f5-33efa9d9271f" width="50%" height="50%">
 
 
 
