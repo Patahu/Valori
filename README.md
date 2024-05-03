@@ -1,5 +1,39 @@
 
-Desarrollé una app móvil para Android para la enseñanza de valores a niños de primaria para la prevención de la violencia mediante lecciones con videos, preguntas y reporte de entudiantes, la aplicacion esta dividida en 3 interfaces diferentes para distintos tipos de usuario, el primero el usuario tipo alumno, el segundo el usuario tipo psicologo y por ultimo el usuario tipo maestro.
+**Descripción:**
+
+Combatir la violencia desde la niñez es crucial para construir un futuro más pacífico. Nuestra app móvil, diseñada para niños de primaria, utiliza un enfoque gamificado para enseñar valores como el respeto, la empatía, la comunicación efectiva y la tolerancia.
+
+**Funcionalidades:**
+
+- Videos cortos e interactivos
+- Ejercicios prácticos
+- Sistema de recompensas
+- Herramientas para padres, maestros, psicólogos y administradores
+- Prevención de la violencia
+- Desarrollo socioemocional integral
+
+**Impacto:**
+
+- Promueve valores positivos
+- Reduce la violencia
+- Fortalece las relaciones
+- Mejora la toma de decisiones
+- Contribuye a un futuro mejor
+- Llamado a la acción
+
+**Beneficios:**
+
+Para niños: Aprendizaje divertido y atractivo, desarrollo de valores, prevención de la violencia, crecimiento socioemocional.
+Para padres: Participación activa en la educación de sus hijos, seguimiento del progreso, reporte de casos de violencia.
+Para maestros: Evaluación del avance de los alumnos, reporte de conductas positivas, generación de un ambiente de aula positivo.
+Para psicólogos: Agregar nuevos ejercicios, monitorear casos de violencia, brindar apoyo individualizado.
+Para administradores: Gestión de usuarios, acceso a reportes, garantía del buen funcionamiento de la app.
+Diferenciadores:
+
+Enfoque gamificado y atractivo
+Comunidad educativa integral
+Alcance más allá de la prevención de la violencia
+Impacto significativo y duradero
 
 
 **Login**
