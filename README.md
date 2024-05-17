@@ -197,9 +197,16 @@ Violencia
 
 
 **USUARIO TIPO PSCICOLOGO**
+
+
 **home**
 
+
+1. Valores y Violencia
+
+
 **1** <img src="https://github.com/Patahu/Valori/assets/55921419/c9d48119-4c67-42e2-b745-d7b914a4aa54" width="50%" height="50%">
+
 
 
 
@@ -207,7 +214,38 @@ Violencia
 
 
 
+
 **3** <img src="https://github.com/Patahu/Valori/assets/55921419/845c793e-4ac1-4b12-a400-871a094ae324" width="50%" height="50%">
+
+
+
+
+**4** <img src="https://github.com/Patahu/Valori/assets/55921419/4876d7f5-da65-4bfc-8169-fa575cfb4d16" width="50%" height="50%">
+
+
+
+2. Historias
+
+
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/49ed1c5f-c1ac-4175-8482-c2d91033bcb8" width="50%" height="50%">
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/7bf84283-999a-4ac5-9a48-d97bc7db6439" width="50%" height="50%">
+
+
+
+**3** <img src="https://github.com/Patahu/Valori/assets/55921419/e59561b7-e730-4b4d-b93e-dc6107f20ddf" width="50%" height="50%">
+
+
+
+**4** <img src="https://github.com/Patahu/Valori/assets/55921419/d17795e1-0905-4524-aa71-af22e87e7ac4" width="50%" height="50%">
+
+
+
+3. Ejercicios
+
 
 
 
