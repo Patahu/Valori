@@ -94,12 +94,11 @@ Impacto significativo y duradero
 
 
 
-**3.** <img src="https://github.com/Patahu/Valori/assets/55921419/c4d7a52f-0b6e-421b-b7a6-f86fc95a1d13" width="50%" height="50%">  
+**3.** <img src="https://github.com/Patahu/Valori/assets/55921419/f769895e-1de3-4fb0-8186-799711f33103" width="50%" height="50%">  
 
 
 
-**4.** <img src="https://github.com/Patahu/Valori/assets/55921419/ea7d05a8-2906-4ff5-901b-d3fed2a28dfd" width="50%" height="50%">
-
+**4.** <img src="https://github.com/Patahu/Valori/assets/55921419/07390eca-a025-482d-8543-c03258724dd6" width="50%" height="50%">
 
 
 **5.** <img src="https://github.com/Patahu/Valori/assets/55921419/b03b5501-7724-4211-b0f5-33efa9d9271f" width="50%" height="50%">
