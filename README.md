@@ -272,7 +272,100 @@ Violencia
 
 
 
-**3** <img src="https://github.com/Patahu/Valori/assets/55921419/3dc55e96-f9b0-4a34-bcba-954ec7987015" width="50%" height="50%">
+**3** <img src="https://github.com/Patahu/Valori/assets/55921419/ce0ebd52-76f0-4879-9722-61730960485e" width="50%" height="50%">
+
+
+
+
+**4** <img src="https://github.com/Patahu/Valori/assets/55921419/9c761384-6cd1-4a31-84ec-a5b46b718095" width="50%" height="50%">
+
+
+
+
+4. Verificar reportes de vilencia
+
+
+
+
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/837029dd-0e15-4697-bda7-311df639dcd8" width="50%" height="50%">
+
+
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/122d68e4-f9cf-4d77-9578-d7a3e6aed0a9" width="50%" height="50%">
+
+
+
+
+**3** <img src="https://github.com/Patahu/Valori/assets/55921419/3a7afd84-1fae-4674-b010-ed348ef9eb2c" width="50%" height="50%">
+
+
+
+
+**4** <img src="https://github.com/Patahu/Valori/assets/55921419/cc2080a6-effe-4de9-aa3a-8de0aec9fea9" width="50%" height="50%">
+
+
 
 
 **USUARIO TIPO MAESTRO**
+
+
+
+
+**home**
+
+
+
+
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/3ba90c40-6638-4ded-8f5e-da5519efbccf" width="50%" height="50%">
+
+
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/2426f57d-af2f-477e-b275-75956045935e" width="50%" height="50%">
+
+
+
+
+
+1. confirmacion de reporte de valores
+
+
+
+
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/9024e0e6-00fa-475f-8ef8-3e8473865867" width="50%" height="50%">
+
+
+
+
+
+2. confirmacion de posibles incidencias de violencia
+
+
+
+
+   
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/0e682373-b678-4c37-ad85-e0a196650074" width="50%" height="50%">
+
+
+
+
+3. Estudiantes a crear
+
+
+
+
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/ced13de1-5574-46be-9a91-864cbbf8ecaf" width="50%" height="50%">
+
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/c6f2142a-ea23-41d5-b244-f195f224afba" width="50%" height="50%">
+
+
