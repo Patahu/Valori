@@ -261,4 +261,18 @@ Violencia
 
 
 
+
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/44d0f4de-2150-43db-9ac3-6db4c7b8a797" width="50%" height="50%">
+
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/3dc55e96-f9b0-4a34-bcba-954ec7987015" width="50%" height="50%">
+
+
+
+
+**3** <img src="https://github.com/Patahu/Valori/assets/55921419/3dc55e96-f9b0-4a34-bcba-954ec7987015" width="50%" height="50%">
+
+
 **USUARIO TIPO MAESTRO**
