@@ -194,6 +194,12 @@ Violencia
 
 
 
+<img src="https://github.com/Patahu/Valori/assets/55921419/ccf6741a-a126-49f1-b168-4bf413bf8c7b" width="50%" height="50%">
+
+
+
+
+
 <img src="https://github.com/Patahu/Valori/assets/55921419/87be8b73-2121-47ab-ad72-f54807b614a8" width="50%" height="50%">
 
 
@@ -201,12 +207,6 @@ Violencia
 
 
 <img src="https://github.com/Patahu/Valori/assets/55921419/1068b49e-f934-4722-9e96-bf4e6df80ebf" width="50%" height="50%">
-
-
-
-
-
-<img src="https://github.com/Patahu/Valori/assets/55921419/ccf6741a-a126-49f1-b168-4bf413bf8c7b" width="50%" height="50%">
 
 
 
