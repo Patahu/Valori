@@ -199,4 +199,16 @@ Violencia
 **USUARIO TIPO PSCICOLOGO**
 **home**
 
+**1** <img src="https://github.com/Patahu/Valori/assets/55921419/c9d48119-4c67-42e2-b745-d7b914a4aa54" width="50%" height="50%">
+
+
+
+**2** <img src="https://github.com/Patahu/Valori/assets/55921419/5b3a02ef-8365-4ae2-98e4-5ff518c00156" width="50%" height="50%">
+
+
+
+**3** <img src="https://github.com/Patahu/Valori/assets/55921419/845c793e-4ac1-4b12-a400-871a094ae324" width="50%" height="50%">
+
+
+
 **USUARIO TIPO MAESTRO**
