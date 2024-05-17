@@ -232,7 +232,10 @@ Violencia
 
 
 
+
 **1** <img src="https://github.com/Patahu/Valori/assets/55921419/49ed1c5f-c1ac-4175-8482-c2d91033bcb8" width="50%" height="50%">
+
+
 
 
 
@@ -240,7 +243,10 @@ Violencia
 
 
 
+
+
 **3** <img src="https://github.com/Patahu/Valori/assets/55921419/e59561b7-e730-4b4d-b93e-dc6107f20ddf" width="50%" height="50%">
+
 
 
 
