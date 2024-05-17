@@ -202,7 +202,10 @@ Violencia
 **home**
 
 
+
 1. Valores y Violencia
+
+
 
 
 **1** <img src="https://github.com/Patahu/Valori/assets/55921419/c9d48119-4c67-42e2-b745-d7b914a4aa54" width="50%" height="50%">
@@ -224,6 +227,7 @@ Violencia
 
 
 
+
 2. Historias
 
 
@@ -240,7 +244,9 @@ Violencia
 
 
 
+
 **4** <img src="https://github.com/Patahu/Valori/assets/55921419/d17795e1-0905-4524-aa71-af22e87e7ac4" width="50%" height="50%">
+
 
 
 
